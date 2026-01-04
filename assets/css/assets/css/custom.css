@@ -1,0 +1,7 @@
+/* Hide the GitHub Pages header */
+header[role="banner"] {
+    display: none !important;
+}
+body {
+    padding-top: 0 !important; /* remove extra spacing caused by the header */
+}
