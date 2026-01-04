@@ -1,2 +1,3 @@
-# feasibilityproject.github.io
+The Feasibility Project
+
 The Feasibility Project conducts independent research into policy and decision making in British politics.
